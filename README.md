@@ -1,0 +1,1 @@
+### Note: make sure New Eagles packages are installed as well as Kvaser or SocketCAN interface.
